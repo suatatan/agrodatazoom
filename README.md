@@ -115,7 +115,7 @@ This repository is designed to be:
 If you use this work in your research or projects, please cite:
 ```
 [Your Name] (2025). AgroDataZoom: Global Agricultural & Food Security Analytics. 
-GitHub repository: https://github.com/suatgonul/agrodatazoom
+GitHub repository: https://github.com/suatatan/agrodatazoom
 ```
 
 ## 🔮 Future Expansions
@@ -130,7 +130,7 @@ GitHub repository: https://github.com/suatgonul/agrodatazoom
 
 - **Location**: Canada 🇨🇦
 - **Focus**: Data Science in Agriculture & Food Security
-- **GitHub**: [@suatgonul](https://github.com/suatgonul)
+- **GitHub**: [@suatatan](https://github.com/suatatan)
 - **Open to**: Research collaborations, data partnerships, and knowledge exchange
 
 ## 📄 License
